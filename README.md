@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Ahmed Muhammed Galadima
-- 👀 I’m interested in Go and programming
-- 🌱 I’m currently learning Go 
-- 💞️ I’m looking to collaborate on Go related projects
+- 👋 Hi, I’m Ahmed Muhammed Galadima.
+- 🌱 I’m currently learning Web Development Via The Odin Project.
 - 📫 How to reach me : my email is ahmedgaladima05@gmail.com
 
 <!---
